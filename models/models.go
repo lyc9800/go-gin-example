@@ -55,7 +55,6 @@ func init() {
 	db.DB().SetMaxIdleConns(10)
 	db.DB().SetMaxOpenConns(100)
 }
-
 func CloseDB() {
 	defer db.Close()
 }

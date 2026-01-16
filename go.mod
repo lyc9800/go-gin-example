@@ -50,5 +50,6 @@ replace (
 	github.com/EDDYCJY/go-gin-example/models => ./go-gin-example/models
 	github.com/EDDYCJY/go-gin-example/pkg/setting => ./go-gin-example/pkg/setting
 	github.com/EDDYCJY/go-gin-example/pkg/util => ./go-gin-example/pkg/util
+	github.com/EDDYCJY/go-gin-example/pkg/e => ./go-gin-example/pkg/setting/e
 	github.com/EDDYCJY/go-gin-example/routers => ./go-gin-example/routers
 )
